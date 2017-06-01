@@ -1,0 +1,9 @@
+c:\users\guido\documents\visual studio 2017\Projects\PhotoArchiver\PhotoArchiver\bin\Debug\PhotoArchiver.exe.config
+c:\users\guido\documents\visual studio 2017\Projects\PhotoArchiver\PhotoArchiver\bin\Debug\PhotoArchiver.exe
+c:\users\guido\documents\visual studio 2017\Projects\PhotoArchiver\PhotoArchiver\bin\Debug\PhotoArchiver.pdb
+c:\users\guido\documents\visual studio 2017\Projects\PhotoArchiver\PhotoArchiver\obj\Debug\PhotoArchiver.csprojResolveAssemblyReference.cache
+c:\users\guido\documents\visual studio 2017\Projects\PhotoArchiver\PhotoArchiver\obj\Debug\PhotoArchiver.Form1.resources
+c:\users\guido\documents\visual studio 2017\Projects\PhotoArchiver\PhotoArchiver\obj\Debug\PhotoArchiver.Properties.Resources.resources
+c:\users\guido\documents\visual studio 2017\Projects\PhotoArchiver\PhotoArchiver\obj\Debug\PhotoArchiver.csproj.GenerateResource.Cache
+c:\users\guido\documents\visual studio 2017\Projects\PhotoArchiver\PhotoArchiver\obj\Debug\PhotoArchiver.exe
+c:\users\guido\documents\visual studio 2017\Projects\PhotoArchiver\PhotoArchiver\obj\Debug\PhotoArchiver.pdb
